@@ -1,0 +1,14 @@
+.subHeader{
+    display:flex;
+    flex-direction: column;
+    margin-top:20px;
+}
+
+.formButton{
+    margin-top: 15px;
+}
+
+.alertText{
+    font-size:10px !important;
+    padding:5px;
+}
